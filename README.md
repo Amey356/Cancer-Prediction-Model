@@ -17,24 +17,6 @@ This project builds a **Cancer Prediction Model** using **Linear Regression** an
 - **Scikit-learn** – Machine learning algorithms.
 - **Matplotlib & Seaborn** – Data visualization.
 
-## Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Cancer-Prediction-Model.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd Cancer-Prediction-Model
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. Run the model:
-   ```sh
-   python model.py
-   ```
-
 ## Results
 - **Linear Regression** provides a basic trend analysis but has limitations in capturing complex relationships.
 - **Polynomial Regression** performs better by adapting to nonlinear patterns in the data, improving accuracy.
