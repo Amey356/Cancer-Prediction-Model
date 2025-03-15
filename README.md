@@ -1,4 +1,4 @@
-### **Cancer Prediction Model 🏥📊**  
+# **Cancer Prediction Model 🏥📊**  
 
 ## **Overview**  
 This project builds a **Cancer Prediction Model** using different regression algorithms to estimate cancer probability. The goal is to help in early detection and analysis of cancer risk based on patient data.  
